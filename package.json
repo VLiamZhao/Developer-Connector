@@ -21,7 +21,9 @@
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.5.8",
     "mongoose": "^5.9.18",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "uuid": "^8.1.0",
+    "uuidv4": "^6.1.0"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
